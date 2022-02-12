@@ -1,0 +1,111 @@
+
+    
+    .gestion{
+float: left;
+position: absolute;
+left: 80px;
+top: 5px;
+}
+.log{
+
+color: #8989ff;
+font-size: 35px;
+
+}
+.logo{
+
+font-size: 30px;
+
+
+font-family: Road Rage;
+
+
+}
+.input:hover{
+    background: dodgerblue;
+}
+.Ajouter {
+        padding: 0px;
+        margin: 0;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .Ajouter {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        border-collapse: collapse;
+        width: 800px;
+        height: 600px;
+        border: 1px solid #bdc3c7;
+        box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
+    }
+
+input[type=text]{
+
+width: 65%;
+height: 55px;
+border: 2px solid #aaa;
+border-radius: 8px 0;
+outline: none;
+padding: 8px;
+box-sizing: border-box;
+position: relative;
+left:110px ;
+}
+h2 {
+        font-weight: 600;
+        text-align: center;
+        background-color: #8989ff ;
+        color: #fff;
+        padding: 10px 0px;
+
+    }.btn{
+
+position: relative;
+left: 200px;
+        
+    }
+
+input[type=password]{
+height: 55px;
+width: 65%;
+border: 2px solid #aaa;
+border-radius: 8px 0;
+outline: none;
+padding: 8px;
+box-sizing: border-box;
+position: relative;
+left:110px ;
+}
+
+input[type=password]:focus{
+border-color: dodgerblue;
+box-shadow: 0 0 8px 0 dodgerblue;
+    
+}
+input[type=text]:focus{
+
+border-color: dodgerblue;
+box-shadow: 0 0 8px 0 dodgerblue;
+
+
+}
+.input{
+
+font-family: Open Sans;
+width: 200px;
+height: 50px;
+background-color: white;
+color:#8989ff ;
+float: left;
+position: relative;
+top: 40px;
+left: 15px;
+font-size: 23px;
+margin: 0 auto;
+border-radius: 30px;
+position: relative;
+left: 90px;
+}

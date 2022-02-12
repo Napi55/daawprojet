@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+.category{
+	
+	position: relative;
+	left: 850px;
+	top: -5;
+	
+}
+.input{
+
+font-family: Open Sans;
+width: 80px;
+height: 50px;
+background-color: #8989ff;
+color: white;
+
+
+font-size: 23px;
+margin: 0 auto;
+border-radius: 30px;
+}
+.input:hover{
+	background: dodgerblue;
+}
+
+#fl{
+	color:black;
+	position: relative;
+	left: 600px;
+}
+#fl1{
+	color:black;
+	position: relative;
+	left: 50px;
+}
+#red{
+	background-color:#f17a6f ;
+	
+}
+#green{
+
+	background-color:#98d4a8  ;}
+	.btn-primary{
+	font-family: Open Sans;
+width: 80px;
+height: 50px;
+background-color: #8989ff;
+color: white;
+
+position: relative;
+left:660px;
+font-size: 23px;
+margin: 0 auto;
+border-radius: 30px;
+	
+	}

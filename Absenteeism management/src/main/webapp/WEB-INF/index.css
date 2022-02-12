@@ -1,0 +1,283 @@
+
+@charset "UTF-8";
+/*all*/
+*{
+
+margin-right: 0px;
+margin-left: 0px;
+
+}
+a{
+
+	text-decoration: none;
+}
+
+a:link{
+color: #8989ff;
+}
+a:visited{
+
+	color: #8989ff;
+}
+
+a:horver {
+
+	color: black;
+}
+section{
+	font-family: Open Sans ;
+}
+.font{
+
+	font-family:Open Sans;
+}
+
+/*header*/
+
+header{
+
+margin-top: 25px;
+
+}
+
+
+.log{
+
+color: #8989ff;
+font-size: 65px;
+
+}
+.logo{
+
+font-size: 50px;
+
+font-family: Road Rage;
+position: relative;
+left: 100px;
+top: 40px;
+}
+
+
+.fontt{
+	font-family: Open Sans;
+	font-size: 18px;
+float: left;
+color: #0b0b0b;}
+header nav{
+	font-family: Open Sans;
+	
+	position: relative;
+float: right;
+margin-top: 10px;
+margin-right:400px ;
+}
+/*main body*/
+.titre{
+margin-bottom: 5px;
+font-size: 45px;
+
+
+}
+.lestitres{
+position: relative;
+
+left: 10px;
+}
+.soustitre{
+	
+	font-size: 17px;
+color: #999999;
+}
+ 
+.image2{
+
+position: absolute;
+right: 50%;
+height: 100%;
+width: 50%;
+}
+.forom{
+
+position: absolute;
+left: 65%;
+height: 100%;
+width: 50%;
+top: 0%;
+}
+
+.email_error,
+.password_error
+{
+margin-top: 0;
+width: 345px;
+font-size: 18px;
+color: red;
+font-family: Open Sans;
+
+}
+
+
+.mainbody{
+/*background-color: #8989ff;*/
+position: relative;
+height: 400px;
+width: 90%;
+left: 70px;
+top:70px;
+}
+.input{
+
+font-family: Open Sans;
+width: 200px;
+height: 50px;
+background-color: #8989ff;
+color: white;
+
+position:absolute;
+top: 400px;
+left: 900px;
+font-size: 23px;
+margin: 0 auto;
+border-radius: 30px;
+}
+.input:hover{
+	background: dodgerblue;
+}
+
+.Forgot{
+
+left: 1200px;
+	position: absolute;
+	right: 0;
+	top: 410px;
+}
+
+input[type=text]{
+
+width: 65%;
+height: 55px;
+border: 2px solid #aaa;
+border-radius: 8px 0;
+outline: none;
+padding: 8px;
+box-sizing: border-box;
+}
+
+
+input[type=password]{
+height: 55px;
+width: 65%;
+border: 2px solid #aaa;
+border-radius: 8px 0;
+outline: none;
+padding: 8px;
+box-sizing: border-box;
+}
+
+input[type=password]:focus{
+border-color: dodgerblue;
+box-shadow: 0 0 8px 0 dodgerblue;
+	
+}
+input[type=text]:focus{
+
+border-color: dodgerblue;
+box-shadow: 0 0 8px 0 dodgerblue;
+
+
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+
+
+.icon{
+position: absolute;
+left: 500px;
+top: 700px
+}
+
+.contact{
+position: absolute;
+left:  300px;
+top: 720px;
+font-family: Open Sans;
+color: #999999;
+font-size: 17px;
+}
+.form-grp{
+
+	position: relative;
+}
+
+
+.form-grp .fa{
+
+position: absolute;
+top: 4%;
+right: 35%;
+}
+.fa-times{
+	
+color: red;
+
+}
+.fa-check{
+color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
